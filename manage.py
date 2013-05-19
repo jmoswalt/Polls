@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/home/flak/programming/Envs/djangotest/bin python
 import os
 import sys
 
