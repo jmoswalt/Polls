@@ -10,3 +10,5 @@
 {% endfor %}
 <input type="submit" value="Vote" />
 </form>
+<br />
+<p>Or, <a href="{% url 'polls:results' poll.id %}">Skip to results</a></p>
